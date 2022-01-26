@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    }
+.H{
+    text-align: center;
+    text-shadow: rgb(134, 134, 134) 5px 5px 5px;
+    margin-top: 50px;
+}
+
+.D{
+    border: solid 2px green;
+    margin-top: 50px;
+    padding-top: 2px;
+    padding-left: 3px;
+    border-radius: 20px;
+}
+i{
+    padding: 4px;
+    margin-left: 3px;
+    margin-right: 3px;
+    float: right;
+}
+
+    
